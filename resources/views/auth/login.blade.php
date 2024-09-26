@@ -154,7 +154,7 @@
                                 <p class="font-semibold">$125.00</p>
                             </div>
                         </div>
-                        <a href="/cart.html"
+                        <a href="{{ 'cart' }}"
                             class="block text-center mt-4 border border-primary bg-primary hover:bg-transparent text-white hover:text-primary py-2 rounded-full font-semibold">Go
                             to Cart</a>
                     </div>
